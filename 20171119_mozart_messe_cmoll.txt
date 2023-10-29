@@ -1,0 +1,26 @@
+Album: Haydn Sinfonie Nr. 95 in c-Moll und Mozart Große Messe in c-Moll
+Time: 19:00
+Artist: Schwäbischer Oratorienchor
+Composer: Joseph Haydn
+Work: Sinfonie Nr. 95 in c-Moll
+1 Allegro moderato
+2 Andante cantabile
+3 Menuett
+4 Finale. Allegro vivace
+Composer: Wolfgang Amadeus Mozart
+Work: Große Messe in c-Moll
+5 Kyrie
+6 Gloria
+7 Laudamus te
+8 Gratias
+9 Domine
+10 Qui tollis
+11 Quoniam
+12 Jesu Christe
+13 Cum Sancto Spiritu
+14 Credo
+15 Et incarnatus est
+16 Sanctus
+17 Hosanna
+18 Benedictus
+19 Hosanna

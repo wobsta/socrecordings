@@ -1,0 +1,23 @@
+Album: Mozart Requiem
+Time: 19:00
+Artist: Schwäbischer Oratorienchor
+Composer: Johann Sebastian Bach
+1 Schlage doch, gewünschte Stunde, Kantate, BWV 53|Schlage doch, gewünschte Stunde
+Composer: Arvo Pärt
+2 Cantus in Memory of Benjamin Britten
+Composer: Wolfgang Amadeus Mozart
+Work: Mozart Requiem
+3 Introitus
+4 Kyrie
+5 Sequenz: 1. Dies irae|Dies irae
+6 Sequenz: 2. Tuba mirum|Tuba mirum
+7 Sequenz: 3. Rex tremendae|Rex tremendae
+8 Sequenz: 4. Recordare|Recordare
+9 Sequenz: 5. Confutatis|Confutatis
+10 Sequenz: 6. Lacrimosa|Lacrimosa
+11 Offertorium: 1. Domine Jesu|Domine Jesu
+12 Offerturium: 2. Hostias|Hostias
+13 Sanctus
+14 Benedictus
+15 Agnus Dei
+16 Communio: Lux aeterna|Lux aeterna

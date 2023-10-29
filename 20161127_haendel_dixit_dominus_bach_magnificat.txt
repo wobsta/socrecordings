@@ -1,0 +1,32 @@
+Album: Dixit Dominus und Magnificat
+Time: 19:00
+Artist: Schwäbischer Oratorienchor
+Composer: Georg Friedrich Händel
+Work: Dixit Dominus
+1 Dixit Dominus Domino meo
+2 Virgam virtutis tuae
+3 Tecum principium
+4 Iuravit Dominus
+5 Tu es sacerdos
+6 Dominus a dextris tuis
+7 Judicabit in nationibus
+8 De torrente in via bibet
+9 Gloria Patri
+Composer: Johann Sebastian Bach
+Work: Nun komm, der Heiden Heiland, BWV 659
+10 Nun komm, der Heiden Heiland
+Work: Kommst Du nun, Jesu, vom Himmel herunter, BWV 650
+11 Kommst Du nun, Jesu vom Himmel herunter
+Work: Magnificat
+12 Magnificat anima mea Dominum
+13 Et exultavit spiritus meus
+14 Quia respexit humilitatem
+15 Omnes generationes
+16 Quia fecit mihi magna
+17 Et misericordia eius
+18 Fecit potentiam in brachio suo
+19 Deposuit potentes
+20 Esurientes implevit bonis
+21 Suscepit Israel
+22 Sicut locutus est
+23 Gloria Patri

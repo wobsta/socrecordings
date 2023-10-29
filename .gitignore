@@ -1,0 +1,4 @@
+*.png
+*.py
+Makefile
+.python-version
